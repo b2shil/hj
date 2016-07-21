@@ -8,7 +8,7 @@ b = input('Please enter second no : ')
 N1=int(a)
 N2=int(b)
 
-c = input('What mathematical operation you want to perform : ')
+c = input('What mathematical operations you want to perform : ')
 
 #print(' Your First no N1 is :',N1)
 #print('Mathematical operator:',c)
